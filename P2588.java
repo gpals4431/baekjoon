@@ -3,7 +3,7 @@ import java.util.StringTokenizer;
 import java.io.BufferedReader;
 
 
-class Main {
+public class P2588 {
     public static void main(String[] args) throws IOException {
         // 코드 작성
         BufferedReader br = new java.io.BufferedReader(new java.io.InputStreamReader(System.in));

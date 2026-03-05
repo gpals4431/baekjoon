@@ -1,7 +1,7 @@
 import java.io.IOException;
 import java.util.Scanner;
 
-class Main {
+public class P1000 {
     public static void main(String[] args) throws IOException {
         // 코드 작성
         Scanner sc = new Scanner(System.in);

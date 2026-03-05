@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.io.BufferedReader;
 import java.util.StringTokenizer;
 
-class Main {
+public class P10926 {
     public static void main(String[] args) throws IOException {
         // 코드 작성
         BufferedReader br = new java.io.BufferedReader(new java.io.InputStreamReader(System.in));
